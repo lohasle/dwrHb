@@ -7,6 +7,6 @@
 *.war
 build/
 localreadme.txt
-
+.ldea
 # Intellij project files
 out/
